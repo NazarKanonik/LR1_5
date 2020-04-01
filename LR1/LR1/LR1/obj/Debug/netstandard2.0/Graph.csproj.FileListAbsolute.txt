@@ -1,0 +1,8 @@
+E:\Politeh\8semestr\LR1\LR1\LR1\bin\Debug\netstandard2.0\Graph.deps.json
+E:\Politeh\8semestr\LR1\LR1\LR1\bin\Debug\netstandard2.0\Graph.dll
+E:\Politeh\8semestr\LR1\LR1\LR1\bin\Debug\netstandard2.0\Graph.pdb
+E:\Politeh\8semestr\LR1\LR1\LR1\obj\Debug\netstandard2.0\Graph.csproj.CoreCompileInputs.cache
+E:\Politeh\8semestr\LR1\LR1\LR1\obj\Debug\netstandard2.0\Graph.AssemblyInfoInputs.cache
+E:\Politeh\8semestr\LR1\LR1\LR1\obj\Debug\netstandard2.0\Graph.AssemblyInfo.cs
+E:\Politeh\8semestr\LR1\LR1\LR1\obj\Debug\netstandard2.0\Graph.dll
+E:\Politeh\8semestr\LR1\LR1\LR1\obj\Debug\netstandard2.0\Graph.pdb

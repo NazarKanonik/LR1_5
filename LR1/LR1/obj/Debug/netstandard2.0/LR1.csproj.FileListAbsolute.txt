@@ -1,0 +1,9 @@
+E:\Politeh\8semestr\LR1\LR1\LR1\obj\Debug\netstandard2.0\LR1.csprojAssemblyReference.cache
+E:\Politeh\8semestr\LR1\LR1\LR1\obj\Debug\netstandard2.0\LR1.csproj.CoreCompileInputs.cache
+E:\Politeh\8semestr\LR1\LR1\LR1\obj\Debug\netstandard2.0\LR1.AssemblyInfoInputs.cache
+E:\Politeh\8semestr\LR1\LR1\LR1\obj\Debug\netstandard2.0\LR1.AssemblyInfo.cs
+E:\Politeh\8semestr\LR1\LR1\LR1\bin\Debug\netstandard2.0\LR1.deps.json
+E:\Politeh\8semestr\LR1\LR1\LR1\bin\Debug\netstandard2.0\LR1.dll
+E:\Politeh\8semestr\LR1\LR1\LR1\bin\Debug\netstandard2.0\LR1.pdb
+E:\Politeh\8semestr\LR1\LR1\LR1\obj\Debug\netstandard2.0\LR1.dll
+E:\Politeh\8semestr\LR1\LR1\LR1\obj\Debug\netstandard2.0\LR1.pdb
