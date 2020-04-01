@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Lab4Comivoascher.cpp
+E:\Politeh\8semestr\LR4\Lab4Comivoascher\Lab4Comivoascher.cpp(9,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab4Comivoascher.vcxproj -> E:\Politeh\8semestr\LR4\Debug\Lab4Comivoascher.exe
